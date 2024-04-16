@@ -1092,7 +1092,7 @@ footer:before {
   .header-wrap {
     position: relative;
     max-width: 100%;
-    padding: 2vw;
+    padding: 5vw;
     border-radius: 0;
   }
   .header-wrap row {
